@@ -1,0 +1,55 @@
+.form {
+    width: 400px;
+    height: 400px;
+    padding-top: 40px;
+    margin: 7em auto;
+}
+
+.un {
+    width: 76%;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(136, 126, 126, 0.04);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Arial';
+}
+    
+.un:focus, .pass:focus {
+    border: 2px solid #fff !important;    
+}
+
+.login {
+    cursor: pointer;
+    border-radius: 5em;
+    color: #fff;
+    background-color: #3582bd;
+    border: 0;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: 'Arial';
+    margin-left: 35%;
+    font-size: 13px;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+}
+
+.sign {
+    padding-top: 40px;
+    color: #fff;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 23px;
+    text-align: center;
+}

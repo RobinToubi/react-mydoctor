@@ -1,0 +1,33 @@
+body {
+    background-color: #424242;
+    color: #ffffff;
+}
+
+.btn {
+    border-radius:28px;
+    display:inline-block;
+    cursor:pointer;
+    font-family:Arial;
+    font-size:17px;
+    font-weight:bold;
+    padding:16px 50px;
+    text-decoration:none;
+    margin: 5px;
+}
+
+.login {
+    background-color:#3582bd;
+    border:1px solid #2072c9;
+    color:#ffffff;
+}
+
+.register {
+    background-color:#FFFFFF;
+    border:1px solid #000000;
+    color: #000000;
+}
+
+.homescreen {
+    text-align: center;
+    margin-top: 20%;
+}
